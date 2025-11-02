@@ -30,16 +30,16 @@
 
     <tr><td>
     Insurance Policy Number:<br>
-    <input type="number"> </td></tr></table></center>
+    <input type="number"> </td></tr></table>
 
-    <center><h2><b>Additional Information</b></h2>
+    <h2><b>Additional Information</b></h2>
     <table>
     <tr><td>
     Username:<br>
     <input type="text"> <br></td></tr>
 
     <tr><td>
-    Password:</td><br>
+    Password:<br>
     <input type="text"> <br></td></tr>
 
     <tr><td>
